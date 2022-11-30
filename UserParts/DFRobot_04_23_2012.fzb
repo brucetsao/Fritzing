@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.7.4b.04.10.5970" icon="DFRobot.png">
+    <title>DFRobot</title>
+    <instances>
+        <instance moduleIdRef="c55741505dd2c935aedbf71f19113b9b" modelIndex="52574" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/RGB_RingV3__67cee030b311aa811a048c3692940fc9.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="e3593e4f25eefc56ec46fd47f16da60e" modelIndex="52575" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/Adjustable_InfraRed_SEN0019__908fcdf3085edcda495b7ca25e7bf8a4.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="dcf70b3a68e00da1d1d9978f0e69bba2" modelIndex="52576" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/7LEDDiskDFR0106__6f9a400b266112990c2b28eda3f94a39.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="5ff583a9e11c06eab26ecffffa6d148e" modelIndex="52577" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/RotationSensorDFR0058__082f1505fb1ec2162c448bfd1e403db9.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="173ae129ee538993a92e6a9a3bc2451d" modelIndex="52578" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/BuzzerDFR0032__d8c081895a720f50f02a6f0da79ef412.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="5821075d06d036c797cced47a3aef8fe" modelIndex="52579" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/SEN0093_IRThermometer__ca60bc0edaf141848c323accee7505f7.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="91127295b7d8b164675206387fbbf135" modelIndex="52580" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/RelayModule_DFR0017__cc65612b453176597bfa319bc55b94a2.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="0e2abbf6b43e551c36188369cebecd67" modelIndex="52581" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/XboardV2__be56c93ecda43dc465b3df7724c30285.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="92bbbcf627f293db3b0ae21fcd5765c3" modelIndex="52582" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/DFTDI__7260f7c99665b7aba94c9991d61d0900.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="343b1b9b0c4ab7cec43ed497dc7ff81a" modelIndex="52583" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/AudioPlayer__1dda2e3b050276eee25ec8e2fefdbe1a.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="d112c6a8b45785c521779689d926bf4a" modelIndex="52584" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/WiFiShield__f0b08feabb396c1d01e37af63be477ef.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="3b9ef852cd08cfe99786ba0013f4191d" modelIndex="52585" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/USBSerial__b02f6986e96811faf44204668bffb49d.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="861ab96bbfb1f3570d24851bafc23a6b" modelIndex="52586" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/URM47V32__60382df788e9a99a96c6c69ac3f032d6.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="b38c8154abd3afe42b478f270c9ac8ee" modelIndex="52587" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/Touchwheel__2f47ab5844d9e4dc7de107ff42a8dc48.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="2ecc5b688b106ff6e13a94dc2224aa80" modelIndex="52588" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/TouchPad__e69a25f1803731d6a3a8cd8d4950c5e5.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="28e4cbe59c66d5011386162d2d8e721f" modelIndex="52589" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/TouchKeyPad__872b3ab8c947f73e10b43ed4e114e7da.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="e71b8d7df6fe56544ac88f0de1e85f4d" modelIndex="52590" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/SHT_Sensor__7cc471251faebeb421bc96b5405a3fce.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="fd4c490611318520de01eabb3683483a" modelIndex="52591" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/SdModule__a2567da5683276e1b6249166c318eeeb.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="f2694e3a16f38f315d0345a2bde55919" modelIndex="52592" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/RGBLEDmodule__52a517782ec80b263a934b6457dd265b.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="c8799c1b2d4e54fe1d67e420ada9d514" modelIndex="52593" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/RGB_RingV2__abfae1cbbfdd09f664f0ec527d9c3d40.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="448f5b2a75f52e6fbf9c42d50fb812d9" modelIndex="52594" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/motorcontrollerDRI0002__daea3f23caf92eba09a9103ebddebe88.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="fdbbb9b5f6f235207e6afe5203d05cea" modelIndex="52595" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/mini_Arduino_Pro__972c806e373b1ed24cf5c0e90c96e738.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="7f1b57d1f9943dbf8fd8008330854008" modelIndex="52596" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/Light_Sensor__6babeea04dd80925683cb886c7e28972.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="68d200b810d53944dd46d28101588368" modelIndex="52597" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/Gyro3Axis__fdb199df233f007659d6a50df4b15bc7.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="88087310e4ce0a1ee93d4b1c919ed3d6" modelIndex="52598" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/Tilt_Sensor__323c5c9d2f14187677fbc6e97555852e.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="e743fc8a28535d44e3534752839dc7d8" modelIndex="52599" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/WhiteLEDmodule__c473d29d61ba0cd4ce0119002071abdc.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="33903ca6b7fc45d8984881494d493fe5" modelIndex="52600" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/LM35_TempSensor__4e521e74b14572aa2e0e4a497439d19c.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="9bf7220671431da56021b8e7feb4fdc3" modelIndex="52601" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/GrayScaleSensor__79364408a00b9e3f9eb46225c1efd59b.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="27678a67af7c1673c004259938a658af" modelIndex="52602" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/DigitalVibrationSensor__697b0dbfef9be37501f84fef776ef739.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="a25a45b7fa699b473be1211f00fe1f17" modelIndex="52603" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/DigitalPushButtonV2__b45c6103cb17604f160aa80897f6d734.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="e2ac135c8f103ece5cdbb397a4bb4162" modelIndex="52604" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/DigitalMagneticSensor__298412826a05d630b982343027c57171.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="015cbf347ce8123ddc60ad572e9c2a86" modelIndex="52605" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/AmbientLightSensor__1446693c550d1295f9b9d2e6d53bd3a8.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="ab693a4d19aa658e03bed765e78e23d5" modelIndex="52606" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/TEL0026_BluetoothV3__05fdd7fa5969fcd7d266cbee085e6918.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="3aac82a50c90c1d4c97eac27f5a58ded" modelIndex="52607" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/MIDIShield__5d7c5741986675a48904260fdae44e9a.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="cd469c5a5b87e03f23eb16a1f815efee" modelIndex="52608" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/DigitalTouchSensor__e7d1852f608f0cd85b896ff374e955e9.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="93c3f81a66cc2e1acc063d7a5c7554a7" modelIndex="52609" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/InputShield__dcb7cfb13269ba098b220eb6884bc327.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="36a41727bd520b92f9b6235cfee4d0c3" modelIndex="52610" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/URM04V2__2d2499d1e7d2998e85c3c8d61a59ddde.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="da2d11f4bb6228f1b2999a3a4f083a11" modelIndex="52611" path="C:/Users/tj/AppData/Roaming/Fritzing/parts/user/Romeo__dc58cac7c50fd1aef731751adf4ca593.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+    </instances>
+</module>

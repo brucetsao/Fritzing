@@ -1,0 +1,5 @@
+ESP32-CAM Video Streaming and Face Recognition with Arduino IDE
+https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/
+
+Getting Started With ESP32 CAM | Streaming Video Using ESP CAM Over Wifi | ESP32 Security Camera Project
+https://www.instructables.com/Getting-Started-With-ESP32-CAM-Streaming-Video-Usi/
